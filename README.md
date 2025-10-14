@@ -1,4 +1,4 @@
-# Phase-Transitional Scaling (PTS) - Figure Generation
+# Phase-Transitional Scaling (PTS)
 
 This repository contains the code for generating the figures from the Phase-Transitional Scaling paper at NeurIPS 2025 LLM-evaluation.
 
