@@ -180,7 +180,7 @@ arithmetic_results = experiments.run_modular_arithmetic_experiments()
 
 This code is part of the Phase-Transitional Scaling research project. If you use this code or the generated figures, please cite the original paper.
 
-'''
+```
 @inproceedings{
 cherukuri2025phasetransitional,
 title={Phase-Transitional Scaling},
@@ -189,7 +189,7 @@ booktitle={NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Bench
 year={2025},
 url={https://openreview.net/forum?id=y7mBTQM7c4}
 } 
-'''
+```
 
 ## 🤝 Contributing
 
