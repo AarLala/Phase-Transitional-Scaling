@@ -2,7 +2,7 @@
 
 This repository contains the code for generating the figures from the Phase-Transitional Scaling paper at NeurIPS 2025 LLM-evaluation.
 
-## 🔬 Overview
+##  Overview
 
 Phase-Transitional Scaling (PTS) provides a novel framework for understanding capability emergence in large language models through sigmoid-shaped transitions. This repository generates comprehensive validation figures demonstrating:
 
@@ -11,7 +11,7 @@ Phase-Transitional Scaling (PTS) provides a novel framework for understanding ca
 - **Predictive Validation** - Superior forecasting compared to power-law approaches
 - **Theoretical Validation** - Mean-field theory, percolation thresholds, and finite-size scaling
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 LLM-eval/
@@ -30,7 +30,7 @@ LLM-eval/
 └── README.md                     # This file
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Set Up Virtual Environment
 
@@ -85,7 +85,7 @@ Generated figures will be saved in the `figures/` directory:
 - `theoretical_validation.png/pdf` - Theoretical mechanism validation  
 - `prior_work_comparison.png/pdf` - Comparison with existing scaling laws
 
-## 📊 Generated Figures
+##  Figures
 
 ### 1. Comprehensive Validation Figure
 **Panels:**
@@ -106,7 +106,7 @@ Generated figures will be saved in the `figures/` directory:
 - **A.** Scaling Law Comparison - PTS vs power-law approaches
 - **B.** Emergence Prediction Accuracy - Cross-validation performance
 
-## 🔧 Dependencies
+## Dependencies
 
 The codebase requires the following Python packages (automatically installed via `requirements.txt`):
 
@@ -118,7 +118,7 @@ The codebase requires the following Python packages (automatically installed via
 - **torch** (≥1.9.0) - Deep learning framework
 - **scikit-learn** (≥1.0.0) - Machine learning utilities
 
-## 🎯 Key Components
+##  Key Components
 
 ### Core Classes and Functions
 
@@ -147,7 +147,7 @@ The validation suite includes:
 4. **Training Dynamics** - Analysis of parameter evolution during training
 5. **Universal Collapse** - Cross-architecture and cross-task validation
 
-## 📈 Usage Examples
+## Usage Examples
 
 ### Generate Specific Figures
 
@@ -176,7 +176,7 @@ synthetic_results = experiments.generate_synthetic_validation()
 arithmetic_results = experiments.run_modular_arithmetic_experiments()
 ```
 
-## 📝 License & Citation
+## License & Citation
 
 This code is part of the Phase-Transitional Scaling research project. If you use this code or the generated figures, please cite the original paper.
 
@@ -191,7 +191,7 @@ url={https://openreview.net/forum?id=y7mBTQM7c4}
 } 
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 This is a research codebase focused on reproducible figure generation. The code has been streamlined for clarity and ease of use while maintaining all essential functionality for experimental validation and visualization.
 
